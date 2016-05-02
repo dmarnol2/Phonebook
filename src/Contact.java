@@ -2,9 +2,9 @@
 public class Contact {
 	//int id;
 	static int count;
-	String firstName;
-	String lastName;
-	String phone;
+	private String firstName;
+	private String lastName;
+	private String phone;
 	
 	Contact (String firstName, String lastName, String phone){
 		this.firstName = firstName;
