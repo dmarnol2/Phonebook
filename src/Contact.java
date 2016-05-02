@@ -1,6 +1,5 @@
 
 public class Contact {
-	private static int count;
 	private String firstName;
 	private String lastName;
 	private String phone;
